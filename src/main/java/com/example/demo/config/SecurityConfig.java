@@ -23,9 +23,6 @@ import org.springframework.security.web.session.SessionInformationExpiredStrateg
 
 /**
  * Spring Security configuration.
- *
- * @author Rob Winch
- * @author Vedran Pavic
  */
 @Configuration
 public class SecurityConfig extends WebSecurityConfigurerAdapter {
